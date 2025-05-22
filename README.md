@@ -29,9 +29,7 @@ I'm a Mechanical Engineer transitioning into the world of Machine Learning and A
 
 ## 📈 GitHub Stats
 
-![FrustratedPixel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrustratedPixel&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrustratedPixel&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrustratedPixel&theme=radical)
 
 ---
 
