@@ -1,5 +1,3 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-
 <h3 align="center">Mechanical Engineer | Aspiring Machine Learning Engineer | Open Source Contributor</h3>
 
 ---
@@ -46,15 +44,9 @@ I'm a Mechanical Engineer transitioning into the world of Machine Learning and A
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-## 😂 Random Dev Joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
-*Note: The stats and badges are generated dynamically using GitHub Readme Stats and other services. They reflect my public activity and may not represent all my skills or contributions.*  
+*Note: The stats and badges are generated dynamically using GitHub Readme Stats and other services. They reflect my public activity and does NOT represent all my skills or their level.*  
