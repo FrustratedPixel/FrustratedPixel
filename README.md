@@ -47,4 +47,4 @@ I'm a Mechanical Engineer transitioning into the world of Machine Learning and A
 ---
 
 
-*Note: The stats and badges are generated dynamically using GitHub Readme Stats and other services. They reflect my public activity and does NOT represent all my skills or their level.*  
+*Note: The stats and badges are generated dynamically using GitHub Readme Stats and other services. They reflect my public activity and does NOT represent all my skills nor their level.*  
