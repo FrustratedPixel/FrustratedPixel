@@ -2,15 +2,14 @@
 
 ---
 
-## 👋 Hello there!
+## 👋 Hello there lurkers! Shiva here.
 
-I'm a Mechanical Engineer transitioning into the world of Machine Learning and AI. I enjoy building projects that bridge traditional engineering with modern AI solutions.
+I'm a supposed to be Mechanical Engineer getting into the world of Machine Learning and AI. Only because I find it really interesting and *totally* not because of the money or anything, aye. I enjoy building projects that make use of the latest developments in technology and constantly try to learn everything my eyes can catch, just so I don't end up becoming a boomer LoL.
 
-- 🎓 Currently exploring Retrieval Augmented Generation (RAG), LangChain, and Graph Neural Networks.  
-- 🌱 Learning about DataOps, MLOps, DevOps, and Software Architecture.  
-- 🛠️ Working on projects that integrate AI into real-world applications.  
-- ✍️ In my free time, I enjoy tinkering with code and learning new technologies.  
-- 📫 Feel free to connect with me on [GitHub](https://github.com/FrustratedPixel).
+- Currently exploring Retrieval Augmented Generation (RAG), LangChain, and Graph Neural Networks.  
+- Learning (or trying to atleast) about the logic and math behind the recently booming LLMs and Transformers.
+- In my free time, I love playing indie video games (y’all should totally try *Disco Elysium*) and learning about new advancements in all sorts of technology be it phones, laptops, or even refrigerators.
+- Feel free to connect with me on [LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-profile](https://www.linkedin.com/in/shiva-s-b021b6278)).
 
 ---
 
@@ -29,7 +28,9 @@ I'm a Mechanical Engineer transitioning into the world of Machine Learning and A
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrustratedPixel&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrustratedPixel&layout=compact&theme=radical)
+
+Yeah I know, I am something of a python fan myself
 
 ---
 
