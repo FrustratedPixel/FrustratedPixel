@@ -9,7 +9,7 @@ I'm a supposed to be Mechanical Engineer getting into the world of Machine Learn
 - Currently exploring Retrieval Augmented Generation (RAG), LangChain, and Graph Neural Networks.  
 - Learning (or trying to atleast) about the logic and math behind the recently booming LLMs and Transformers.
 - In my free time, I love playing indie video games (y’all should totally try *Disco Elysium*) and learning about new advancements in all sorts of technology be it phones, laptops, or even refrigerators.
-- Feel free to connect with me on [LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-profile](https://www.linkedin.com/in/shiva-s-b021b6278)).
+- Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-profile](https://www.linkedin.com/in/shiva-s-b021b6278))  
 
 ---
 
