@@ -4,7 +4,7 @@
 
 ## 👋 Hello there lurkers! Shiva here.
 
-I'm a supposed to be Mechanical Engineer getting into the world of Machine Learning and AI. Only because I find it really interesting and *totally* not because of the money or anything, aye. I enjoy building projects that make use of the latest developments in technology and constantly try to learn everything my eyes can catch, just so I don't end up becoming a boomer LoL.
+I'm a Mechanical Engineer venturing into the world of Machine Learning and AI. Only because I find it really interesting and *totally* not because of the money or anything, aye. I enjoy building projects that make use of the latest developments in technology and constantly try to learn everything my eyes can catch, just so I don't end up becoming a boomer.
 
 - Currently exploring Retrieval Augmented Generation (RAG), LangChain, and Graph Neural Networks.  
 - Learning (or trying to atleast) about the logic and math behind the recently booming LLMs and Transformers.
