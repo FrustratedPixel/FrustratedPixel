@@ -2,9 +2,9 @@
 
 ---
 
-## 👋 Hello there lurkers! Shiva here.
+## Hello there! Shiva here.
 
-I'm a Mechanical Engineer venturing into the world of Machine Learning and AI. Only because I find it really interesting and *totally* not because of the money or anything, aye. I enjoy building projects that make use of the latest developments in technology and constantly try to learn everything my eyes can catch, just so I don't end up becoming a boomer.
+I'm a Mechanical Engineer venturing into the world of Machine Learning and AI. I enjoy building projects that make use of the latest developments in technology and constantly try to learn everything my eyes can catch, just so I don't end up becoming a boomer.
 
 - Currently exploring Retrieval Augmented Generation (RAG), LangChain, and Graph Neural Networks.  
 - Learning (or trying to atleast) about the logic and math behind the recently booming LLMs and Transformers.
@@ -13,7 +13,7 @@ I'm a Mechanical Engineer venturing into the world of Machine Learning and AI. O
 
 ---
 
-## 🚀 Projects I'm Working On
+## Projects I'm Working On
 
 - **[RAG_Chatbot](https://github.com/FrustratedPixel/RAG_Chatbot)**  
   A document Q&A application using Streamlit, exploring Retrieval Augmented Generation and LangChain.
@@ -26,7 +26,7 @@ I'm a Mechanical Engineer venturing into the world of Machine Learning and AI. O
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrustratedPixel&layout=compact&theme=radical)
 
@@ -34,7 +34,7 @@ Yeah I know, I am something of a python fan myself
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-profile](https://www.linkedin.com/in/shiva-s-b021b6278))  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:frustratedpixel@gmail.com)
